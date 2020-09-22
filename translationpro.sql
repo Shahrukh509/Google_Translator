@@ -61,6 +61,7 @@ INSERT INTO `content` (`id`, `ENGLISH`, `ESPAGNOL`, `ARABIC`, `URDU`, `RUSSIAN`,
 (21, 'father', 'الآب', 'الآب', 'باپ', 'отец', 'padre', 'père'),
 (22, 'mother', 'patrino', 'أم', 'ماں', 'мать', 'madre', 'mère'),
 (23, 'caring', 'zorgado', 'رعاية', 'دیکھ بھال', 'заботливая', 'cura', 'soins');
+(24, 'carless', 'zorgadun', 'رعاية', ' ghairدیکھ بھال', 'заботливая', 'curals', 'soins');
 
 --
 -- Indexes for dumped tables
